@@ -25,6 +25,9 @@ Programs and practice codes from my first year learning journey
 
 ### 📫 Connect with Me
 - **LinkedIn:** 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/appurva-dixit-a1a960380)
+
 - **Email:** appurvadixit1@gmail.com
 
 ⭐ *I am building this profile as part of my journey to become a skilled AI Engineer.*  
